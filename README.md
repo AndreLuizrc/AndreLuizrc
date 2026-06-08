@@ -6,7 +6,23 @@
 
 ###
 
-<p align="left">Olá! Me chamo André e atualmente, estou cursando Ciência da Computação na PUC, onde estou aprofundando meus conhecimentos em desenvolvimento de software, estruturas de dados, inteligência artificial e muito mais.<br><br>Este espaço no GitHub é o meu cantinho para compartilhar minha jornada na área de tecnologia. Aqui você encontrará projetos pessoais, experimentos, aprendizados e tudo o que for construído ao longo da minha evolução profissional e acadêmica.<br><br>Meu objetivo é crescer como desenvolvedor e contribuir com a comunidade tech — então fique à vontade para explorar meus repositórios, dar feedbacks ou até trocar ideias!</p>
+<p align="left">Sou Desenvolvedor Full Stack com experiência no desenvolvimento de sistemas web, automações e integrações voltadas à otimização de processos internos.
+
+Atuo em diferentes etapas do desenvolvimento de software, desde a definição de arquitetura até o desenvolvimento de soluções completas, integração com serviços externos, manutenção de aplicações em produção e melhoria contínua de processos.
+
+Principais competências:
+* Desenvolvimento Full Stack 
+* Criação e manutenção de APIs REST 
+* Automação de processos 
+* Manutenção e evolução de aplicações em produção 
+* Análise de dados aplicada a processos internos 
+* Otimização de fluxos operacionais 
+* Resolução de problemas técnicos
+
+Linguagens: Python, Java, TypeScript
+Frameworks e bibliotecas: React, Next.js, NestJS, FastAPI, Pandas, Keras, TensorFlow
+Cloud, infraestrutura e DevOps: Google Cloud, Firebase, AWS, Docker
+Arquitetura: Serverless, Microsserviços</p>
 
 ###
 
